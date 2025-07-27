@@ -6,6 +6,7 @@ repo_description_lines_max: 2
 github_repos:
   - martin-wey/ast-probe
   - Antolin1/M2
+  - models-lab/worde4mde
   - modelset/modelset-dataset
   - PELAB-LiU/code-inter-dataset-duplication
   - mar-platform/mar
