@@ -1,11 +1,13 @@
 ---
 layout: page
 permalink: /repositories/
-title: Repositories where I am involved
+title: Repositories
 description: 
 nav: true
 nav_order: 4
 ---
+
+# GitHub repositories where I am involved
 
 {% if site.data.repositories.github_repos %}
 
