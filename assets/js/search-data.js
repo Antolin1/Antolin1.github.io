@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
         },{id: "nav-repositories",
           title: "repositories",
           description: "",
@@ -39,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "Materials for courses you taught.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -118,6 +111,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("mailto:%6A%6F%73%65%61%6E%74%6F%6E%69%6F.%68%65%72%6E%61%6E%64%65%7A%36@%75%6D.%65%73", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/Antolin1", "_blank");
         },
       },{
         id: 'social-orcid',
