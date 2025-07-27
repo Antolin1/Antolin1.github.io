@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-Examples for GitHub repositories where I am involved include:
+Examples of GitHub repositories/projects where I am involved include:
 
 {% if site.data.repositories.github_repos %}
 

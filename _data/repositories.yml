@@ -10,3 +10,6 @@ github_repos:
   - modelset/modelset-dataset
   - PELAB-LiU/code-inter-dataset-duplication
   - mar-platform/mar
+
+github_repos_teaching:
+  - Antolin1/course-aed2-1900-umu
