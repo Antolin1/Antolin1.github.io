@@ -99,24 +99,41 @@
     "paper": "ModelMate: A recommender for textual modeling languages based on pre-trained language models"
   }
 ],
-  "skills": {
-  "programming_languages": [
-    { "name": "Python", "icon": "🐍" },
-    { "name": "Java", "icon": "☕" }
-  ],
-  "frameworks_and_libraries": [
-    { "name": "PyTorch", "icon": "🔥" },
-    { "name": "TensorFlow", "icon": "🧠" },
-    { "name": "Hugging Face", "icon": "🤗" },
-    { "name": "PyTorch Geometric", "icon": "🧬" },
-    { "name": "Scikit-learn", "icon": "📊" },
-    { "name": "SciPy", "icon": "🔬" },
-    { "name": "NumPy", "icon": "➗" },
-    { "name": "Pandas", "icon": "🐼" },
-    { "name": "Matplotlib", "icon": "📈" },
-    { "name": "Seaborn", "icon": "🌊" }
-  ]
-},
+  "skills": [
+  {
+    "name": "Programming Languages",
+    "level": "Advanced",
+    "icon": "fa-solid fa-code",
+    "keywords": [
+      "Python",
+      "Java"
+    ]
+  },
+  {
+    "name": "Machine Learning Frameworks",
+    "level": "Advanced",
+    "icon": "fa-solid fa-brain",
+    "keywords": [
+      "PyTorch",
+      "TensorFlow",
+      "Hugging Face",
+      "PyTorch Geometric",
+      "scikit-learn"
+    ]
+  },
+  {
+    "name": "Scientific Computing Libraries",
+    "level": "Advanced",
+    "icon": "fa-solid fa-flask",
+    "keywords": [
+      "NumPy",
+      "SciPy",
+      "Pandas",
+      "Matplotlib",
+      "Seaborn"
+    ]
+  }
+],
   "languages": [
     {
       "language": "Spanish",
