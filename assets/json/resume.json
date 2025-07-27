@@ -56,45 +56,49 @@
       "location": "Murcia, Spain",
       "area": "Computer Science",
       "studyType": "PhD",
-      "score": "Cum laude"
+      "score": "Cum laude",
+      "date": "2023"
     },
     {
       "institution": "University of Murcia",
       "location": "Murcia, Spain",
       "area": "Big Data",
-      "studyType": "MSc"
+      "studyType": "MSc",
+      "date": "2020"
     },
     {
       "institution": "University of Murcia",
       "location": "Murcia, Spain",
       "area": "Mathematics",
-      "studyType": "BSc"
+      "studyType": "BSc",
+      "date": "2019"
     },
     {
       "institution": "University of Murcia",
       "location": "Murcia, Spain",
       "area": "Computer Science",
-      "studyType": "BSc"
+      "studyType": "BSc",
+      "date": "2019"
     }
   ],
   "awards": [
   {
-    "title": "ACM SIGSOFT Distinguished Paper Award",
+    "title": "ACM SIGSOFT Distinguished Paper Award MODELS 2021",
     "conference": "MODELS 2021",
     "paper": "Towards the characterization of realistic model generators using graph neural networks"
   },
   {
-    "title": "ACM SIGSOFT Distinguished Paper Award",
+    "title": "ACM SIGSOFT Distinguished Paper Award MODELS 2023",
     "conference": "MODELS 2023",
     "paper": "Word Embeddings for Model-Driven Engineering"
   },
   {
-    "title": "Springer Best Foundation Paper Award",
+    "title": "Springer Best Foundation Paper Award MODELS 2023",
     "conference": "MODELS 2023",
     "paper": "Word Embeddings for Model-Driven Engineering"
   },
   {
-    "title": "Springer Best Foundation Paper Award",
+    "title": "Springer Best Foundation Paper Award MODELS 2024",
     "conference": "MODELS 2024",
     "paper": "ModelMate: A recommender for textual modeling languages based on pre-trained language models"
   }
